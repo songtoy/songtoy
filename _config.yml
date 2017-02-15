@@ -1,2 +1,4 @@
-  name: Songtoy
-  markdown: kramdown
+nam e: Songtoy
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
